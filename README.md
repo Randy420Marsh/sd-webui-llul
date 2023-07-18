@@ -1,3 +1,5 @@
+#Set tag 631059c as the main, seems to be latest compatible/working tag with the latest AUTOMATIC1111/stable-diffusion-webui commits...
+
 # LLuL - Local Latent upscaLer
 
 ![cover](./images/cover.jpg)
